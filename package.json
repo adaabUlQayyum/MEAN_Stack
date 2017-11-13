@@ -1,0 +1,23 @@
+{
+  "name": "meanstack",
+  "version": "0.0.0",
+  "description": "my first repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://adaabUlQayyum@github.com/adaabUlQayyum/MEAN_Stack.git"
+  },
+  "author": "adab ul qayyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaabUlQayyum/MEAN_Stack/issues"
+  },
+  "homepage": "https://github.com/adaabUlQayyum/MEAN_Stack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0"
+  }
+}
